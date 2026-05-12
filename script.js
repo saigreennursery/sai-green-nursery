@@ -22,3 +22,8 @@ function darkMode(){
 document.body.classList.toggle("dark");
 
 }
+function addToCart(){
+
+alert("Product Added To Cart");
+
+}
