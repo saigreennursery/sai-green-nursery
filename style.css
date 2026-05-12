@@ -29,3 +29,10 @@ input, textarea{
 textarea{
   height:100px;
 }
+footer{
+  background:#222;
+  color:white;
+  text-align:center;
+  padding:20px;
+  margin-top:40px;
+}
