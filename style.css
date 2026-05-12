@@ -155,3 +155,7 @@ header h1{
 .active{
   opacity:1;
 }
+.dark{
+  background:#111;
+  color:white;
+}
