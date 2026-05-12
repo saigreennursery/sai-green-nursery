@@ -19,3 +19,13 @@ section{
 h2{
   color:green;
 }
+input, textarea{
+  width:300px;
+  padding:10px;
+  border:1px solid #ccc;
+  border-radius:5px;
+}
+
+textarea{
+  height:100px;
+}
